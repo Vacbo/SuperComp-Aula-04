@@ -1,0 +1,4 @@
+Total Words: 14
+Total Lines: 10
+Average number of words: 1.4
+Most frequent word: repete (freq: 7)
